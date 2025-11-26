@@ -20,7 +20,12 @@ This is a **continuously updated** list of papers, code, and resources related t
 
 ### 2025
 
+- **[2025 CVPR]** Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_Order-Robust_Class_Incremental_Learning_Graph-Driven_Dynamic_Similarity_Grouping_CVPR_2025_paper.html)] [[code](https://github.com/AIGNLAI/GDDSG)]
+
 - **[2025 ICCV]** Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_Mind_the_Gap_Preserving_and_Compensating_for_the_Modality_Gap_ICCV_2025_paper.html)] [[code](https://github.com/linlany/MindtheGap)]
+
+- **[2025 ICCV]** External Knowledge Injection for CLIP-Based Class-Incremental Learning [[paper](https://arxiv.org/abs/2503.08510)] [[code](https://github.com/LAMDA-CL/ICCV25-ENGINE)]
+
 
 ### 2024
 
@@ -41,6 +46,8 @@ For questions or suggestions, please feel free to contact me!
 
 ## Acknowledgments
 
-A big thanks to everyone who has starred the repository!
+Many thanks to everyone who has starred or forked this repository!
 
-[![Stargazers repo roster for @Jinyong-Li/Awesome-Continual-Learning](https://reporoster.com/stars/Jinyong-Li/Awesome-Continual-Learning)](https://github.com/Jinyong-Li/Awesome-Continual-Learning)
+[![Stargazers repo roster for @Jinyong-Li/Awesome-Continual-Learning](https://reporoster.com/stars/Jinyong-Li/Awesome-Continual-Learning)](https://github.com/Jinyong-Li/Awesome-Continual-Learning/stargazers)
+
+[![Forkers repo roster for @Jinyong-Li/Awesome-Continual-Learning](https://reporoster.com/forks/Jinyong-Li/Awesome-Continual-Learning)](https://github.com/Jinyong-Li/Awesome-Continual-Learning/network/members)
